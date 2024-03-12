@@ -4,9 +4,11 @@
 <a href="https://github.com/spacehoboguy">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spacehoboguy&theme=&hide_border=false" alt="Streaks" width="460" height="170" />
 </a>
+<!-- 
 <a href="https://github.com/spacehoboguy">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=spacehoboguy&hide=prs&count_private=true&show_icons=true&theme=" alt="github stats" width="460" height="170" />
 </a>
+-->
 
 <!--
 **spacehoboguy/spacehoboguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
