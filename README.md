@@ -1,7 +1,4 @@
 <a href="https://github.com/spacehoboguy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spacehoboguy&layout=compact&theme=" alt="Top Langs" width="335" height="170" />
-</a>
-<a href="https://github.com/spacehoboguy">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spacehoboguy&theme=&hide_border=false" alt="Streaks" width="460" height="170" />
 </a>
 <!-- 
